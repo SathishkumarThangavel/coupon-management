@@ -1,0 +1,24 @@
+
+body, h2 {
+  font-family: 'Oswald', sans-serif !important;
+}
+
+.nav .container {
+  padding: 50px 0;
+}
+
+.nav {
+  background: #4c4af1;
+  color: #fff;
+}
+
+form {
+  margin: 100px 0 50px;
+}
+
+.btn {
+  margin: 5px;
+}
+.btn.btn-light {
+  border: 1px solid #bfbfbf;
+}
