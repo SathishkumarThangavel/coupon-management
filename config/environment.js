@@ -2,7 +2,7 @@
 
 module.exports = function(environment) {
   let ENV = {
-    modulePrefix: 'coupon-management',
+    modulePrefix: 'couponbeheer',
     environment,
     rootURL: '/',
     locationType: 'auto',
