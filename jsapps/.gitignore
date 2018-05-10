@@ -7,6 +7,7 @@
 # dependencies
 /node_modules
 /bower_components
+.yarn
 
 # misc
 /.sass-cache
@@ -22,11 +23,6 @@ testem.log
 bower.json.ember-try
 package.json.ember-try
 
-
-
-/build/couponbeheer/
 .DS_Store
-build/dist
-
-#secret values
-vendor/
+/__MACOSX
+/components/
