@@ -22,3 +22,27 @@ form {
 .btn.btn-light {
   border: 1px solid #bfbfbf;
 }
+
+.content-container {
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 250px 30px;
+}
+
+.content-container svg {
+  width: 100px;
+  padding-bottom: 20px;
+  fill: #6b757c
+}
+
+.content-container p {
+  padding: 0px 350px;
+  text-align: center;
+}
+
+.content-container button {
+  padding: 5px 20px;
+  margin-top: 50px;
+}
