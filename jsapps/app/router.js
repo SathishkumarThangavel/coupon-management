@@ -7,7 +7,11 @@ const Router = EmberRouter.extend({
 });
 
 Router.map(function() {
-  this.route('coupon/new');
-});
+  this.route('coupon');
+  this.route('coupon/new', {
+      path: '/new',
+      resetNamespace: true
+    });
+  });
 
 export default Router;
